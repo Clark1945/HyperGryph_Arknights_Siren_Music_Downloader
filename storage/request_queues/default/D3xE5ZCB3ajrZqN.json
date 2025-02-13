@@ -1,0 +1,23 @@
+{
+  "id": "D3xE5ZCB3ajrZqN",
+  "unique_key": "https://crawlee.dev/blog/launching-crawlee-python",
+  "order_no": "1738681087784.286976",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/blog/launching-crawlee-python",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/blog/launching-crawlee-python",
+    "id": "D3xE5ZCB3ajrZqN"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "S31bA6CFULqtMzg",
+  "unique_key": "https://crawlee.dev/api/core/changelog",
+  "order_no": null,
+  "handled_at": "2025-02-04 14:58:06.208676+00:00",
+  "request": {
+    "url": "https://crawlee.dev/api/core/changelog",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://crawlee.dev/api/core/changelog",
+    "handled_at": "2025-02-04 14:58:06.208676+00:00",
+    "unique_key": "https://crawlee.dev/api/core/changelog",
+    "id": "S31bA6CFULqtMzg"
+  }
+}

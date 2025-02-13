@@ -1,0 +1,23 @@
+{
+  "id": "m6i237pTYl5bxF9",
+  "unique_key": "https://crawlee.dev/api/core/class/eventmanager",
+  "order_no": "1738681084307.001114",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/core/class/EventManager",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/core/class/eventmanager",
+    "id": "m6i237pTYl5bxF9"
+  }
+}

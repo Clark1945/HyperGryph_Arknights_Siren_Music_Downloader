@@ -1,0 +1,23 @@
+{
+  "id": "Wzrie8MyVPHTdwR",
+  "unique_key": "https://crawlee.dev/docs/examples/jsdom-crawler",
+  "order_no": "1738681082727.519035",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/examples/jsdom-crawler",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/examples/jsdom-crawler",
+    "id": "Wzrie8MyVPHTdwR"
+  }
+}

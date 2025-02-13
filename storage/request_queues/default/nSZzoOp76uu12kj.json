@@ -1,0 +1,23 @@
+{
+  "id": "nSZzoOp76uu12kj",
+  "unique_key": "https://crawlee.dev/api/core/class/sitemaprequestlist",
+  "order_no": "1738681085668.418884",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/core/class/SitemapRequestList",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/core/class/sitemaprequestlist",
+    "id": "nSZzoOp76uu12kj"
+  }
+}

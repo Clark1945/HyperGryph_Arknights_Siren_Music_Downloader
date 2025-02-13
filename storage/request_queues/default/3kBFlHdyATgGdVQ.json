@@ -1,0 +1,23 @@
+{
+  "id": "3kBFlHdyATgGdVQ",
+  "unique_key": "https://crawlee.dev/api/playwright-crawler/class/playwrightcrawler",
+  "order_no": "1738681080656.486034",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/playwright-crawler/class/PlaywrightCrawler",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/playwright-crawler/class/playwrightcrawler",
+    "id": "3kBFlHdyATgGdVQ"
+  }
+}

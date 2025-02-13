@@ -1,0 +1,23 @@
+{
+  "id": "KDeW0Hp1FRI2Spb",
+  "unique_key": "https://crawlee.dev/api/core/interface/configurationoptions",
+  "order_no": "1738681085893.368959",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/core/interface/ConfigurationOptions",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/core/interface/configurationoptions",
+    "id": "KDeW0Hp1FRI2Spb"
+  }
+}

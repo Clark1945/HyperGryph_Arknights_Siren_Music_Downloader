@@ -1,0 +1,23 @@
+{
+  "id": "iuHYTM7SXLJdvjL",
+  "unique_key": "https://crawlee.dev/docs/3.8/introduction/real-world-project",
+  "order_no": "1738681096043.005943",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/3.8/introduction/real-world-project",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/3.8/introduction/real-world-project",
+    "id": "iuHYTM7SXLJdvjL"
+  }
+}

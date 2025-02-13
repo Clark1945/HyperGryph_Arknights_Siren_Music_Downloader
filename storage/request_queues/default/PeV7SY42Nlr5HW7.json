@@ -1,0 +1,23 @@
+{
+  "id": "PeV7SY42Nlr5HW7",
+  "unique_key": "https://crawlee.dev/blog/scrape-crunchbase-python",
+  "order_no": "1738681087308.942080",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/blog/scrape-crunchbase-python",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/blog/scrape-crunchbase-python",
+    "id": "PeV7SY42Nlr5HW7"
+  }
+}

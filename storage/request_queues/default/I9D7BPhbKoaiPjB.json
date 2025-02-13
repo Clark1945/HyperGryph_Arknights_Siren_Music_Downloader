@@ -1,0 +1,23 @@
+{
+  "id": "I9D7BPhbKoaiPjB",
+  "unique_key": "https://crawlee.dev/blog/proxy-management-in-crawlee",
+  "order_no": "1738681087833.242893",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/blog/proxy-management-in-crawlee",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/blog/proxy-management-in-crawlee",
+    "id": "I9D7BPhbKoaiPjB"
+  }
+}

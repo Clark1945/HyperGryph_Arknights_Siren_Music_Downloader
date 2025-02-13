@@ -1,0 +1,23 @@
+{
+  "id": "aMdUVQ1BCqI30kS",
+  "unique_key": "https://crawlee.dev/api/core/interface/sessionpooloptions",
+  "order_no": "1738681087422.262907",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/core/interface/SessionPoolOptions",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/core/interface/sessionpooloptions",
+    "id": "aMdUVQ1BCqI30kS"
+  }
+}

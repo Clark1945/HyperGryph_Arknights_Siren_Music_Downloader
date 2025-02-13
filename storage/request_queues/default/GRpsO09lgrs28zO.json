@@ -1,0 +1,23 @@
+{
+  "id": "GRpsO09lgrs28zO",
+  "unique_key": "https://crawlee.dev/api/core/class/gotscrapinghttpclient",
+  "order_no": "1738681084341.445923",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/core/class/GotScrapingHttpClient",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/core/class/gotscrapinghttpclient",
+    "id": "GRpsO09lgrs28zO"
+  }
+}

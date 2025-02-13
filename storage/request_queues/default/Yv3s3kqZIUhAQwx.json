@@ -1,0 +1,23 @@
+{
+  "id": "Yv3s3kqZIUhAQwx",
+  "unique_key": "https://crawlee.dev/api/core/interface/cookie",
+  "order_no": "1738681085926.671028",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/core/interface/Cookie",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/core/interface/cookie",
+    "id": "Yv3s3kqZIUhAQwx"
+  }
+}

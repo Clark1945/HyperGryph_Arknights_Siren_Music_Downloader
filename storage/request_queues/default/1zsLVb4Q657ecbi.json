@@ -1,0 +1,23 @@
+{
+  "id": "1zsLVb4Q657ecbi",
+  "unique_key": "https://crawlee.dev/blog/netflix-show-recommender",
+  "order_no": "1738681087881.000042",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/blog/netflix-show-recommender",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/blog/netflix-show-recommender",
+    "id": "1zsLVb4Q657ecbi"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gZM0z0SKIAjXuxy",
+  "unique_key": "https://crawlee.dev/blog/scrape-google-search",
+  "order_no": "1738681087398.729086",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/blog/scrape-google-search",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/blog/scrape-google-search",
+    "id": "gZM0z0SKIAjXuxy"
+  }
+}

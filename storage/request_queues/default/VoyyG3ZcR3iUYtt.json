@@ -1,0 +1,23 @@
+{
+  "id": "VoyyG3ZcR3iUYtt",
+  "unique_key": "https://crawlee.dev/docs/guides/jsdom-crawler-guide",
+  "order_no": "1738681079549.379110",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/guides/jsdom-crawler-guide",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/guides/jsdom-crawler-guide",
+    "id": "VoyyG3ZcR3iUYtt"
+  }
+}

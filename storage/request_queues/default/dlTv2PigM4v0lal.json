@@ -1,0 +1,23 @@
+{
+  "id": "dlTv2PigM4v0lal",
+  "unique_key": "https://crawlee.dev/docs/guides/avoid-blocking",
+  "order_no": "1738681079503.715038",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/guides/avoid-blocking",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/guides/avoid-blocking",
+    "id": "dlTv2PigM4v0lal"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "wOZVcWijsL7gtw8",
+  "unique_key": "https://crawlee.dev/docs/next/introduction/scraping",
+  "order_no": "1738681091380.248070",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/next/introduction/scraping",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/next/introduction/scraping",
+    "id": "wOZVcWijsL7gtw8"
+  }
+}

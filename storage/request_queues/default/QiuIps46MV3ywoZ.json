@@ -1,0 +1,23 @@
+{
+  "id": "QiuIps46MV3ywoZ",
+  "unique_key": "https://crawlee.dev/docs/examples/crawl-some-links",
+  "order_no": "1738681082477.257967",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/examples/crawl-some-links",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/examples/crawl-some-links",
+    "id": "QiuIps46MV3ywoZ"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "584IiMSCGtg9fME",
+  "unique_key": "https://crawlee.dev/docs/3.11/examples",
+  "order_no": "1738681080585.458994",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/3.11/examples",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/3.11/examples",
+    "id": "584IiMSCGtg9fME"
+  }
+}

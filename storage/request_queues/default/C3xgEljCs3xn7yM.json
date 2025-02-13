@@ -1,0 +1,23 @@
+{
+  "id": "C3xgEljCs3xn7yM",
+  "unique_key": "https://crawlee.dev/docs/3.9/introduction/setting-up",
+  "order_no": "1738681095193.917990",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/3.9/introduction/setting-up",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/3.9/introduction/setting-up",
+    "id": "C3xgEljCs3xn7yM"
+  }
+}

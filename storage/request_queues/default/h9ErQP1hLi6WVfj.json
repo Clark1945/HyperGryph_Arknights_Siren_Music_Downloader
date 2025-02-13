@@ -1,0 +1,23 @@
+{
+  "id": "h9ErQP1hLi6WVfj",
+  "unique_key": "https://crawlee.dev/api/core/interface/errnoexception",
+  "order_no": "1738681086383.742094",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/core/interface/ErrnoException",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/core/interface/errnoexception",
+    "id": "h9ErQP1hLi6WVfj"
+  }
+}

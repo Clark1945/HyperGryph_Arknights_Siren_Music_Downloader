@@ -1,0 +1,23 @@
+{
+  "id": "MfZTwy5FQ9JOvlj",
+  "unique_key": "https://crawlee.dev/docs/3.9/introduction/saving-data",
+  "order_no": "1738681095412.426949",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/3.9/introduction/saving-data",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/3.9/introduction/saving-data",
+    "id": "MfZTwy5FQ9JOvlj"
+  }
+}

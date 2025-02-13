@@ -1,0 +1,23 @@
+{
+  "id": "KjkG8BCH3nFWT3w",
+  "unique_key": "https://crawlee.dev/docs/3.8/guides",
+  "order_no": "1738681096206.001997",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/3.8/guides",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/3.8/guides",
+    "id": "KjkG8BCH3nFWT3w"
+  }
+}

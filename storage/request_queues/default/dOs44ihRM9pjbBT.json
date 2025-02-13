@@ -1,0 +1,23 @@
+{
+  "id": "dOs44ihRM9pjbBT",
+  "unique_key": "https://crawlee.dev/docs/next/deployment",
+  "order_no": "1738681091622.862101",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/next/deployment",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/next/deployment",
+    "id": "dOs44ihRM9pjbBT"
+  }
+}

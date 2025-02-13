@@ -1,0 +1,23 @@
+{
+  "id": "c2gw8NIbAmVLHeC",
+  "unique_key": "https://crawlee.dev/docs/3.7/quick-start",
+  "order_no": "1738681079228.286982",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/3.7/quick-start",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/3.7/quick-start",
+    "id": "c2gw8NIbAmVLHeC"
+  }
+}

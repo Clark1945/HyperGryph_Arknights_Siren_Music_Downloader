@@ -1,0 +1,23 @@
+{
+  "id": "3FULW9cbbkMrV4R",
+  "unique_key": "https://crawlee.dev",
+  "order_no": null,
+  "handled_at": "2025-02-04 14:57:59.998805+00:00",
+  "request": {
+    "url": "https://crawlee.dev",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://crawlee.dev",
+    "handled_at": "2025-02-04 14:57:59.998805+00:00",
+    "unique_key": "https://crawlee.dev",
+    "id": "3FULW9cbbkMrV4R"
+  }
+}

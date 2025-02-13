@@ -1,0 +1,23 @@
+{
+  "id": "45EPo1m4TOghf1G",
+  "unique_key": "https://crawlee.dev/docs/3.8/introduction/crawling",
+  "order_no": "1738681096087.177992",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/3.8/introduction/crawling",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/3.8/introduction/crawling",
+    "id": "45EPo1m4TOghf1G"
+  }
+}

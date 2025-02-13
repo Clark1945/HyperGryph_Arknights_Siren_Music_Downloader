@@ -1,0 +1,23 @@
+{
+  "id": "faiNfX2pWxwPSiy",
+  "unique_key": "https://crawlee.dev/api/3.9/cheerio-crawler/class/cheeriocrawler",
+  "order_no": "1738681095661.122084",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/3.9/cheerio-crawler/class/CheerioCrawler",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/3.9/cheerio-crawler/class/cheeriocrawler",
+    "id": "faiNfX2pWxwPSiy"
+  }
+}

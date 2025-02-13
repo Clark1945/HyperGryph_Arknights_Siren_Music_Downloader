@@ -1,0 +1,23 @@
+{
+  "id": "Ro3GqyOzesNVd9G",
+  "unique_key": "https://crawlee.dev/docs/examples/cheerio-crawler",
+  "order_no": "1738681082262.443066",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/examples/cheerio-crawler",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/examples/cheerio-crawler",
+    "id": "Ro3GqyOzesNVd9G"
+  }
+}

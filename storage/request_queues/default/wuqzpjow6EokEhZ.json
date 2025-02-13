@@ -1,0 +1,23 @@
+{
+  "id": "wuqzpjow6EokEhZ",
+  "unique_key": "https://crawlee.dev/docs/deployment/gcp-cheerio",
+  "order_no": "1738681079828.577042",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/deployment/gcp-cheerio",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/deployment/gcp-cheerio",
+    "id": "wuqzpjow6EokEhZ"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "x0eJbaaqKwyslxC",
+  "unique_key": "https://crawlee.dev/api/utils/namespace/social",
+  "order_no": "1738681079665.668964",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/utils/namespace/social",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/utils/namespace/social",
+    "id": "x0eJbaaqKwyslxC"
+  }
+}

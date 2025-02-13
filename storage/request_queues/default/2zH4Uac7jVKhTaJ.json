@@ -1,0 +1,23 @@
+{
+  "id": "2zH4Uac7jVKhTaJ",
+  "unique_key": "https://crawlee.dev/docs/examples/file-download-stream",
+  "order_no": "1738681082620.915890",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/examples/file-download-stream",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/examples/file-download-stream",
+    "id": "2zH4Uac7jVKhTaJ"
+  }
+}

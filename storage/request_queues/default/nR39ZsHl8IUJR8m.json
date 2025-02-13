@@ -1,0 +1,23 @@
+{
+  "id": "nR39ZsHl8IUJR8m",
+  "unique_key": "https://crawlee.dev/api/core/interface/pusherrormessageoptions",
+  "order_no": "1738681086870.140076",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/core/interface/PushErrorMessageOptions",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/core/interface/pusherrormessageoptions",
+    "id": "nR39ZsHl8IUJR8m"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "yGoW7Q2m90y8Mk5",
+  "unique_key": "https://crawlee.dev/api/next/puppeteer-crawler/class/puppeteercrawler",
+  "order_no": "1738681091877.345085",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/next/puppeteer-crawler/class/PuppeteerCrawler",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/next/puppeteer-crawler/class/puppeteercrawler",
+    "id": "yGoW7Q2m90y8Mk5"
+  }
+}

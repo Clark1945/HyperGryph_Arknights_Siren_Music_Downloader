@@ -1,0 +1,23 @@
+{
+  "id": "GqIZnudfDrNS33j",
+  "unique_key": "https://crawlee.dev/python/docs/introduction",
+  "order_no": "1738681089393.652916",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/python/docs/introduction",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/python/docs/introduction",
+    "id": "GqIZnudfDrNS33j"
+  }
+}

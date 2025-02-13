@@ -1,0 +1,23 @@
+{
+  "id": "uVptad3A3UGGNSE",
+  "unique_key": "https://crawlee.dev/api/core/interface/enqueuelinksoptions",
+  "order_no": "1738681086361.689091",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/core/interface/EnqueueLinksOptions",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/core/interface/enqueuelinksoptions",
+    "id": "uVptad3A3UGGNSE"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Xlp1DyQR159IqIw",
+  "unique_key": "https://crawlee.dev/docs/guides/request-storage",
+  "order_no": "1738681079642.121077",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/docs/guides/request-storage",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/docs/guides/request-storage",
+    "id": "Xlp1DyQR159IqIw"
+  }
+}

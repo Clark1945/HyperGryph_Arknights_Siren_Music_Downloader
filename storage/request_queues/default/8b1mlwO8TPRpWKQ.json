@@ -1,0 +1,23 @@
+{
+  "id": "8b1mlwO8TPRpWKQ",
+  "unique_key": "https://crawlee.dev/api/puppeteer-crawler",
+  "order_no": "1738681083142.688036",
+  "handled_at": null,
+  "request": {
+    "url": "https://crawlee.dev/api/puppeteer-crawler",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://crawlee.dev/api/puppeteer-crawler",
+    "id": "8b1mlwO8TPRpWKQ"
+  }
+}

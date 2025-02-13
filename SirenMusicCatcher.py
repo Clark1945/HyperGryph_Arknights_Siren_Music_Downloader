@@ -22,11 +22,13 @@ HEADERS = { # 設定請求標頭
 }
 
 LAST_INTERRUPTED_INDEX = 0
+DEFAULT_DELAY_TIME = 3
+DEFAULT_MAX_RETRIES = 5
 
 # 設定最大重試次數與回退時間
 session = requests.Session()  # 1️⃣ 建立 Session
 retries = Retry(
-    total=5,               # 2️⃣ 最多重試 5 次
+    total=DEFAULT_MAX_RETRIES,               # 2️⃣ 最多重試 5 次
     backoff_factor=2,      # 3️⃣ 指數退避策略 (2, 4, 8, 16, 32 秒)
     status_forcelist=[429, 500, 502, 503, 504]  # 4️⃣ 只對這些 HTTP 狀態碼進行重試
 )
@@ -49,7 +51,7 @@ def fetch_with_retry(url,stream=False):
 
 # 避免短時間內大量請求，隨機延遲 3~6 秒
 def create_random_delay():
-    delay = random.uniform(3, 6)
+    delay = random.uniform(DEFAULT_DELAY_TIME, DEFAULT_DELAY_TIME*2)
     print(f"Waiting {delay:.2f} seconds before next request...")
     time.sleep(delay)
 

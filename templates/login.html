@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>賽壬唱片下載器 — 登入</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0d0d0d;
+      --surface: #161616;
+      --border: #282828;
+      --text: #e8e8e8;
+      --muted: #6a6a6a;
+      --accent: #c8a165;
+      --danger: #e05555;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      font-size: 14px;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 2.5rem 2rem;
+      width: 100%;
+      max-width: 340px;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .logo {
+      text-align: center;
+    }
+
+    .logo h1 {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--accent);
+      letter-spacing: 0.1em;
+      margin-bottom: 0.3rem;
+    }
+
+    .logo p {
+      font-size: 0.75rem;
+      color: var(--muted);
+    }
+
+    .fields {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    label {
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+      font-size: 0.75rem;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }
+
+    input {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      color: var(--text);
+      font-size: 0.85rem;
+      padding: 0.55rem 0.75rem;
+      outline: none;
+      transition: border-color 0.15s;
+      width: 100%;
+    }
+
+    input:focus { border-color: var(--accent); }
+
+    .error {
+      font-size: 0.78rem;
+      color: var(--danger);
+      text-align: center;
+      padding: 0.5rem;
+      background: rgba(224,85,85,0.1);
+      border: 1px solid rgba(224,85,85,0.25);
+      border-radius: 4px;
+    }
+
+    .submit-btn {
+      width: 100%;
+      padding: 0.6rem;
+      border-radius: 5px;
+      border: 1px solid var(--accent);
+      background: transparent;
+      color: var(--accent);
+      font-size: 0.85rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .submit-btn:hover { background: var(--accent); color: #000; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="logo">
+      <h1>賽壬唱片下載器</h1>
+      <p>Monster Siren Records</p>
+    </div>
+
+    {% if error %}
+    <div class="error">{{ error }}</div>
+    {% endif %}
+
+    <form method="POST" action="/login">
+      <div class="fields">
+        <label>
+          帳號
+          <input type="text" name="username" autocomplete="username" autofocus required>
+        </label>
+        <label>
+          密碼
+          <input type="password" name="password" autocomplete="current-password" required>
+        </label>
+      </div>
+      <br>
+      <button type="submit" class="submit-btn">登入</button>
+    </form>
+  </div>
+</body>
+</html>

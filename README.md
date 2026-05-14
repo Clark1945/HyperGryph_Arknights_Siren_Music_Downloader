@@ -2,6 +2,8 @@
 
 一個以 Flask 製作的 Web 介面工具，可瀏覽並下載《賽壬唱片》（Monster Siren Records）全部專輯的封面與音樂檔案，資料來自官方 API。
 
+**Live Demo：** https://siren-music-downloader.clarkliu.com
+
 ---
 
 ## 介面截圖
